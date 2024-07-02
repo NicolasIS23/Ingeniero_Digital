@@ -1,0 +1,13 @@
+Usage: uvicorn [OPTIONS] APP
+Try 'uvicorn --help' for help.
+
+Error: Got unexpected extra arguments (0.0.0.0 /home/ubuntu/InvestigacionConocimiento/realRisk/LogAPI_PRUEBAS.txt)
+Usage: uvicorn [OPTIONS] APP
+Try 'uvicorn --help' for help.
+
+Error: Got unexpected extra arguments (0.0.0.0 /InvestigacionConocimiento/IngenieroDigitalPruebas/ingeniero-digital/LogAPI_PRUEBAS.txt)
+Usage: uvicorn [OPTIONS] APP
+Try 'uvicorn --help' for help.
+
+Error: Got unexpected extra arguments (0.0.0.0 /home/ingeniero_digital/principal/LogAPI_PRUEBAS.txt)
+Error: Option '--port' requires an argument.
